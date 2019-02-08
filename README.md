@@ -1,8 +1,8 @@
 Text RSA Module
 =========
 #### Intro
-- Base on node-rsa and fs, please install node-rs and fs first
-- Can only deal with the encrpt and decrpt with text
+- Based on node-rsa and fs, please install node-rsa and fs first.
+- Can only deal with the encrpt and decrpt with *text*.
 
 ```
   npm install node-rsa --save
